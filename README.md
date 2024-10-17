@@ -1,4 +1,4 @@
-# A-Python-based-Hotel-and-User-Management-System-with-MySQL-Integration
+# Retail_Sales_Data_Analysis
       This project focuses on analyzing and visualizing sales data using Python libraries. 
       The objective is to gain insights from the dataset through a systematic approach that includes data cleaning, analysis, and visualization.
       In this project we are importing the python libraries to analyze the dataset and visualizing the sales data
